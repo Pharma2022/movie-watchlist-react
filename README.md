@@ -1,4 +1,4 @@
-# Quizzical Scrimba FrontEnd Module 10 - React Basics
+# MovieWatchlist Scrimba FrontEnd Module 8 - Working with APIs
 
 Quick start:
 
@@ -7,7 +7,7 @@ $ npm install
 $ npm run dev
 ````
 
-This is a quiz application that uses a restful API from [omdb](https://www.omdbapi.com/)
+This is a movie finding application that uses a restful API from [omdb](https://www.omdbapi.com/)
 
 See [Demo](https://shahs-moviewatchlist.netlify.app/)
 
