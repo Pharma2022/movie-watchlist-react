@@ -20,7 +20,7 @@ See [Demo](https://shahs-moviewatchlist.netlify.app/)
 - Asynchronous functions 
 
 ## Stretch goals
-- I coded this using React , but the origin project was a vanilla javasript project 
+- I coded this using React , but the original project was a vanilla javasript project 
 
 ## Further Stretch Goals/General Improvements
 - To refactor the CSS to make maintenance easier
